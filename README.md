@@ -15,6 +15,8 @@ PORT=8000
 JWT_SECRET=a random secret key eg. thisisasecretkey
 ```
 # Run the App
+npm install
+npm start
 
 # Live Preview
 Check live preview here https://maxlenc-assignment.vercel.app/
