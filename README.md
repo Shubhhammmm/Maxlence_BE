@@ -22,9 +22,16 @@ GMAIL_PASSWORD=password created inside 'App Password' section under google accou
 PORT=8000
 JWT_SECRET=a random secret key eg. thisisasecretkey
 ```
-# Run the App
+Run the App
+Go to backend and frontend directory and start the server
+
+cd backend
+nodemon server
+
+cd frontend
 npm install
 npm start
+
 
 # Live Preview
 Check live preview here https://maxlenc-assignment.vercel.app/
